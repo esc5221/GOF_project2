@@ -1,0 +1,10 @@
+﻿  Zombie.cpp
+  Source.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(51): error C2381: 'exit': 재정의. '__declspec(noreturn)' 또는 '[[noreturn]]'이 다릅니다.
+  c:\users\choi byeong wook\desktop\프방\금실습\프로젝트2\fri_project2\fri_project2\include\gl\glut.h(146): note: 'exit' 선언을 참조하십시오.
+c:\users\choi byeong wook\desktop\프방\금실습\프로젝트2\fri_project2\fri_project2\source.cpp(79): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\choi byeong wook\desktop\프방\금실습\프로젝트2\fri_project2\fri_project2\source.cpp(135): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Player.cpp
+c:\users\choi byeong wook\desktop\프방\금실습\프로젝트2\fri_project2\fri_project2\player.cpp(8): error C2011: 'Player': 'class' 형식 재정의
+  c:\users\choi byeong wook\desktop\프방\금실습\프로젝트2\fri_project2\fri_project2\player.h(11): note: 'Player' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...

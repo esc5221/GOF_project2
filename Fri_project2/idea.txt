@@ -1,0 +1,2 @@
+# Random Moving 정도 조절
+ rand() : 0 ~
